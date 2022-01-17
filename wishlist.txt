@@ -1,3 +1,6 @@
+title:Wishlist for DIM
+description:20220117
+
 // THE STEADY HAND
 //notes:Highest stability possible
 dimwishlist:item=2220884262&perks=1926090095,1885400500,588594999,11551321,384158423
